@@ -1,0 +1,1 @@
+{"tasks":{"control-loop":{"hard_cap_us":10500,"jitter_budget_us":3500,"max_overrun_ratio":0.01,"period_ms":20},"telemetry":{"hard_cap_us":30000,"jitter_budget_us":10000,"max_overrun_ratio":0.01,"period_ms":100}}}
