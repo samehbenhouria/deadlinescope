@@ -4,6 +4,8 @@
 fast enough"* into *"the deadline held — here is the measured proof"*,
 and gives your CI a verdict it can fail on.
 
+**Demo video (2:12):** https://vimeo.com/1244254656
+
 QNX's System Profiler *shows* traces but renders no verdict: no budgets,
 no thresholds, no CI gate. The High Availability Manager supervises and
 restarts processes but never measures whether their deadlines held.
